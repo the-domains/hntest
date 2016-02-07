@@ -1,7 +1,7 @@
 name: HNtest
 favicon: null
-layout_spectrum: 0.17718436592258513
-typography_spectrum: 0.6253991473931819
+layout_spectrum: 1
+typography_spectrum: 0.60724
 cta:
   domain: null
   bucket: null
