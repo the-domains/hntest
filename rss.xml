@@ -4,8 +4,15 @@
         <description><![CDATA[HNtest]]></description>
         <link>https://thegrid.ai/hntest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 17:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 17:40:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hntest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CSS Variables: Why Should You Care? | Web Updates - Google Developers]]></title>
+            <description><![CDATA[<article><h1>CSS Variables: Why Should You Care? | Web Updates - Google Developers</h1><p>CSS variables, more accurately known as CSS custom properties, are landing in Chrome 49. They can be useful for reducing repetition in CSS, and also for powerful runtime effects like theme switching and potentially extending/polyfilling future CSS features.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20f3c9698eaef7ae01bb96dcdda0bed4ce8c4373.jpg"></article>]]></description>
+            <link>https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care</link>
+            <guid isPermaLink="false">c658bd36-c397-4028-afc9-ec9f7a3103bc</guid>
+            <pubDate>Sun, 07 Feb 2016 17:39:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jayphelps/git-blame-someone-else]]></title>
             <description><![CDATA[<article><h1>jayphelps/git-blame-someone-else</h1><p>git-blame-someone-else - Blame someone else for your bad code.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e733e9833e41261f536a247804e35e7b425381d2.jpg"></article>]]></description>
