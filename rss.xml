@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[HNtest]]></title>
         <description><![CDATA[HNtest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hntest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 17:39:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 17:40:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hntest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jayphelps/git-blame-someone-else]]></title>
+            <description><![CDATA[<article><h1>jayphelps/git-blame-someone-else</h1><p>git-blame-someone-else - Blame someone else for your bad code.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e733e9833e41261f536a247804e35e7b425381d2.jpg"></article>]]></description>
+            <link>https://github.com/jayphelps/git-blame-someone-else</link>
+            <guid isPermaLink="false">7f94cfb6-8eb5-461e-9b34-9fecd72734bc</guid>
+            <pubDate>Sun, 07 Feb 2016 17:39:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Rich Are Already Using Robo-Advisers, and That Scares Banks]]></title>
             <description><![CDATA[<article><h1>The Rich Are Already Using Robo-Advisers, and That Scares Banks</h1><p>Banks are watching wealthy clients flirt with robo-advisers, and that's one reason the lenders are racing to release their own versions of the automated investing technology this year, according to a consultant. Millennials and small investors aren't the only ones using robo-advisers, a group that includes pioneers Wealthfront Inc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66bda186687037b716a9634fa132fe3905b1c4ff.jpg"></article>]]></description>
