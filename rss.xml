@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HNtest]]></title>
+        <description><![CDATA[HNtest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 17:39:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Rich Are Already Using Robo-Advisers, and That Scares Banks]]></title>
+            <description><![CDATA[<article><h1>The Rich Are Already Using Robo-Advisers, and That Scares Banks</h1><p>Banks are watching wealthy clients flirt with robo-advisers, and that's one reason the lenders are racing to release their own versions of the automated investing technology this year, according to a consultant. Millennials and small investors aren't the only ones using robo-advisers, a group that includes pioneers Wealthfront Inc.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66bda186687037b716a9634fa132fe3905b1c4ff.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-02-05/the-rich-are-already-using-robo-advisers-and-that-scares-banks</link>
+            <guid isPermaLink="false">c7c0ad5f-3f96-419e-ac39-e5cc7c79c3a9</guid>
+            <pubDate>Sun, 07 Feb 2016 17:39:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
